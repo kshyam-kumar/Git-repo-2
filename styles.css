@@ -2,4 +2,5 @@ h1 {
     color:brown;
     font-family: 'Courier New', Courier, monospace;
     font-style: oblique;
+    flex: content;
 }
